@@ -1,0 +1,1 @@
+alert("Jisne ok na dabaya vo Randi ka")
